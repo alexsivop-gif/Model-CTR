@@ -1,0 +1,82 @@
+{
+    "num_col": [
+        "C18",
+        "C20",
+        "ml_feature_1",
+        "ml_feature_5",
+        "ml_feature_6",
+        "ml_feature_8",
+        "ml_feature_9",
+        "ml_feature_10"
+    ],
+    "log_col": [
+        "C14",
+        "C15",
+        "C19",
+        "C21"
+    ],
+    "ohe_numeric": [
+        "device_conn_type",
+        "device_type",
+        "C1"
+    ],
+    "ohe_text": [
+        "app_category",
+        "ml_feature_7"
+    ],
+    "te_col": [
+        "site_domain"
+    ],
+    "final_feature_names": [
+        "C14",
+        "C15",
+        "C19",
+        "C21",
+        "C18",
+        "C20",
+        "ml_feature_1",
+        "ml_feature_5",
+        "ml_feature_6",
+        "ml_feature_8",
+        "ml_feature_9",
+        "ml_feature_10",
+        "device_conn_type_0",
+        "device_conn_type_2",
+        "device_conn_type_3",
+        "device_conn_type_5",
+        "device_type_0",
+        "device_type_1",
+        "device_type_4",
+        "device_type_5",
+        "C1_1001",
+        "C1_1002",
+        "C1_1005",
+        "C1_1007",
+        "C1_1008",
+        "C1_1010",
+        "C1_1012",
+        "app_category_07d7df22",
+        "app_category_09481d60",
+        "app_category_0bfbc358",
+        "app_category_0f2161f8",
+        "app_category_0f9a328c",
+        "app_category_18b1e0be",
+        "app_category_2281a340",
+        "app_category_4681bb9d",
+        "app_category_4ce2e9fc",
+        "app_category_75d80bbe",
+        "app_category_879c24eb",
+        "app_category_8ded1f7a",
+        "app_category_a3c42688",
+        "app_category_a7fd01ec",
+        "app_category_cef3e649",
+        "app_category_d1327cf5",
+        "app_category_dc97ec06",
+        "app_category_f95efa07",
+        "app_category_fc6fa53d",
+        "ml_feature_7_X",
+        "ml_feature_7_Y",
+        "ml_feature_7_Z",
+        "site_domain"
+    ]
+}

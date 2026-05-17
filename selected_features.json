@@ -1,45 +1,36 @@
 {
     "num_col": [
-        "C18",
-        "C20",
-        "ml_feature_1",
-        "ml_feature_5",
-        "ml_feature_6",
-        "ml_feature_8",
-        "ml_feature_9",
-        "ml_feature_10"
-    ],
-    "log_col": [
-        "C14",
-        "C15",
-        "C19",
-        "C21"
-    ],
-    "ohe_numeric": [
-        "device_conn_type",
-        "device_type",
-        "C1"
-    ],
-    "ohe_text": [
-        "app_category",
-        "ml_feature_7"
-    ],
-    "te_col": [
-        "site_domain"
-    ],
-    "final_feature_names": [
-        "C14",
-        "C15",
-        "C19",
-        "C21",
-        "C18",
-        "C20",
         "ml_feature_1",
         "ml_feature_5",
         "ml_feature_6",
         "ml_feature_8",
         "ml_feature_9",
         "ml_feature_10",
+        "hours"
+    ],
+    "ohe_numeric": [
+        "device_conn_type",
+        "device_type",
+        "day_of_week",
+        "C15"
+    ],
+    "ohe_text": [
+        "app_category",
+        "ml_feature_2",
+        "ml_feature_7"
+    ],
+    "te_col": [
+        "C17",
+        "site_domain"
+    ],
+    "final_feature_names": [
+        "ml_feature_1",
+        "ml_feature_5",
+        "ml_feature_6",
+        "ml_feature_8",
+        "ml_feature_9",
+        "ml_feature_10",
+        "hours",
         "device_conn_type_0",
         "device_conn_type_2",
         "device_conn_type_3",
@@ -48,16 +39,23 @@
         "device_type_1",
         "device_type_4",
         "device_type_5",
-        "C1_1001",
-        "C1_1002",
-        "C1_1005",
-        "C1_1007",
-        "C1_1008",
-        "C1_1010",
-        "C1_1012",
+        "day_of_week_0",
+        "day_of_week_1",
+        "day_of_week_2",
+        "day_of_week_3",
+        "day_of_week_4",
+        "day_of_week_5",
+        "day_of_week_6",
+        "C15_120",
+        "C15_216",
+        "C15_300",
+        "C15_320",
+        "C15_480",
+        "C15_728",
+        "C15_768",
+        "C15_1024",
         "app_category_07d7df22",
         "app_category_09481d60",
-        "app_category_0bfbc358",
         "app_category_0f2161f8",
         "app_category_0f9a328c",
         "app_category_18b1e0be",
@@ -74,9 +72,15 @@
         "app_category_dc97ec06",
         "app_category_f95efa07",
         "app_category_fc6fa53d",
+        "ml_feature_2_A",
+        "ml_feature_2_B",
+        "ml_feature_2_C",
+        "ml_feature_2_D",
+        "ml_feature_2_E",
         "ml_feature_7_X",
         "ml_feature_7_Y",
         "ml_feature_7_Z",
+        "C17",
         "site_domain"
     ]
 }
